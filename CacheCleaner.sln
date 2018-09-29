@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CacheCleaner", "CacheCleaner\CacheCleaner.vbproj", "{DB637281-1EE0-4F98-8E60-A86317DDC8C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB637281-1EE0-4F98-8E60-A86317DDC8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB637281-1EE0-4F98-8E60-A86317DDC8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB637281-1EE0-4F98-8E60-A86317DDC8C8}.Debug|x86.ActiveCfg = Debug|x86
+		{DB637281-1EE0-4F98-8E60-A86317DDC8C8}.Debug|x86.Build.0 = Debug|x86
+		{DB637281-1EE0-4F98-8E60-A86317DDC8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB637281-1EE0-4F98-8E60-A86317DDC8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB637281-1EE0-4F98-8E60-A86317DDC8C8}.Release|x86.ActiveCfg = Release|x86
+		{DB637281-1EE0-4F98-8E60-A86317DDC8C8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
